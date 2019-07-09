@@ -1,0 +1,16 @@
+{
+    "OLED12864_I2C.DISPLAY_ONOFF.DISPLAY_ON|block": "开",
+    "OLED12864_I2C.DISPLAY_ONOFF.DISPLAY_OFF|block": "关",
+    "OLED12864_I2C.pixel|block": "画点 x %x|y %y|颜色 %color",
+    "OLED12864_I2C.String|block": "显示文字 %s|在列 %x|行 %y|颜色 %color",
+    "OLED12864_I2C.Number|block": "显示数字 %num|在列 %x|行 %y|颜色 %color",
+    "OLED12864_I2C.printString|block": "打印 %s|颜色 %color|新行 %newline",
+    "OLED12864_I2C.printNumber|block": "打印数字 %num|颜色 %color|新行 %newline",
+    "OLED12864_I2C.hline|block": "绘制水平线在 x %x|y %y|长度 %len|颜色 %color",
+    "OLED12864_I2C.vline|block": "绘制垂直线在 x %x|y %y|长度 %len|颜色 %color",
+    "OLED12864_I2C.rect|block": "绘制矩形在 x1 %x1|y1 %y1|x2 %x2|y2 %y2|颜色 %color",
+    "OLED12864_I2C.invert|block": "反显模式 %d",
+    "OLED12864_I2C.clear|block": "清除屏幕",
+    "OLED12864_I2C.display|block": "显示 %d",
+    "OLED12864_I2C.init|block": "初始化"
+}
