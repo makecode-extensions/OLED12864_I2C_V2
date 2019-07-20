@@ -1,7 +1,7 @@
 {
     "OLED12864_I2C.DISPLAY_ONOFF.DISPLAY_ON|block": "开",
     "OLED12864_I2C.DISPLAY_ONOFF.DISPLAY_OFF|block": "关",
-    "OLED12864_I2C.pixel|block": "画点 x %x|y %y|颜色 %color",
+    "OLED12864_I2C.pixel|block": "画点在 x %x|y %y|颜色 %color",
     "OLED12864_I2C.String|block": "显示文字 %s|在列 %x|行 %y|颜色 %color",
     "OLED12864_I2C.Number|block": "显示数字 %num|在列 %x|行 %y|颜色 %color",
     "OLED12864_I2C.printString|block": "打印 %s|颜色 %color|新行 %newline",
