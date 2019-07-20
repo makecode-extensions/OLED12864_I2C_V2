@@ -1,5 +1,5 @@
 {
-    "name": "OLED12864_I2C_V2",
+    "name": "OLED12864_I2C",
     "version": "2.0.0",
     "description": "makecode I2C OLED 128 x 64 extension for micro:bit V2.",
     "license": "MIT",
@@ -8,9 +8,9 @@
     },
     "files": [
         "README.md",
-        "pxtparts.json",
-        "_locales/zh/OLED12864_I2C-strings.json",
         "OLED12864_I2C.ts",
+        "_locales/zh/OLED12864_I2C-strings.json",
+        "pxtparts.json",
         "parts/OLED12864_I2C.svg"
     ],
     "testFiles": [
